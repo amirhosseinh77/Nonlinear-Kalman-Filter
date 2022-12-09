@@ -1,5 +1,5 @@
 # Nonlinear Kalman Filter Python Implementation
 
-## Extended-Kalman-Filter
+## Extended Kalman Filter (EKF)
 
-## Sigma-Point-Kalman-Filter
+## Sigma-Point Kalman Filter (SPKF)
