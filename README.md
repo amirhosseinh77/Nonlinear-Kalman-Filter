@@ -10,11 +10,7 @@ y_k=h(x_k,u_k,v_k) =x_k^3+v_k
 ```
 
 
-with
-```math
-\Sigma_{\tilde{w}} = 1, \ \ \ \ \Sigma_{\tilde{v}} = 2
-``` 
-as input and output uncertainty covariance matrices.
+with $\Sigma_{\tilde{w}} = 1, \ \Sigma_{\tilde{v}} = 2$ as input and output uncertainty covariance matrices.
 
 ```bash
 pip install -r requirements.txt
