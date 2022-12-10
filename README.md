@@ -2,7 +2,7 @@
 
 we implement kalman filter for model having following dynamics:
 
-$$\huge
+$$\large
 \begin{cases}
 x_{k+1}=f(x_k,u_k,w_k)=\sqrt{5+x_k}+w_k \\
 y_k=h(x_k,u_k,v_k) =x_k^3+v_k
