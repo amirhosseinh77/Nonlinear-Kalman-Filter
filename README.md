@@ -2,15 +2,15 @@
 
 ## Extended Kalman Filter (EKF)
 
-### Inference
-bash```
+#### Inference
+```
 $ python main_EKF.py
 ```
 
 ## Sigma-Point Kalman Filter (SPKF)
 
-### Inference
-bash```
+#### Inference
+```
 $ python main_SPKF.py
 ```
 
