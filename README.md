@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ## Extended Kalman Filter (EKF)
 
 ```math
-coming soon!
+coming \ soon!
 ```
 
 #### Inference
@@ -34,7 +34,7 @@ python main_EKF.py
 ## Sigma-Point Kalman Filter (SPKF)
 
 ```math
-coming soon!
+coming \ soon!
 ```
 
 #### Inference
