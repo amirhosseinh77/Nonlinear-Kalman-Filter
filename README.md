@@ -1,5 +1,9 @@
 # Nonlinear Kalman Filter Python Implementation
 
+```bash
+pip install -r requirements.txt
+```
+
 ## Extended Kalman Filter (EKF)
 
 #### Inference
